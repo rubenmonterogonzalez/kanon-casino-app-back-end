@@ -44,9 +44,8 @@ This project is a backend API for the Casino web application. It is built using 
 
 1.  Clone the repository:
     ```
-    git clone https://github.com/rubenmonterogonzalez/kanon.git
-    cd kanon
-    cd back-end
+    git clone https://github.com/rubenmonterogonzalez/kanon-casino-app-back-end.git
+    cd kanon-casino-app-back-end
     ```
 2.  Install dependencies:  
     `npm install`
